@@ -18,13 +18,13 @@ This analysis uses Python in Jupyter Lab with the following packages:
 
 The trading data for the two exchanges were cleaned to focus only on bitcoin prices for three individual days. One day was early in the data set, one in the middle and one late:
 
-Early:
+
 ![chart1](images/chart1.PNG)
 
-Middle:
+
 ![chart2](images/chart2.PNG)
 
-Late:
+
 ![chart2](images/chart2.PNG)
 
 Focusing in on the three individual days, we were able to determine how many profitable trading opportunities existed (in addition to other statistics) where a trader could buy on the lower priced exchange and sell on the higher priced exchange while still profiting net of trading fees (1%). 
@@ -34,11 +34,11 @@ Focusing in on the three individual days, we were able to determine how many pro
 The analysis shows that as time progressed, not only did profits per trade decline, but opportunities for profit declined as well.
 
 
-Profits per trade:
+
 ![chart5](images/chart5.PNG)
 
 
-Cumulative Profits:
+
 ![chart6](images/chart6.PNG)
 
 ---
