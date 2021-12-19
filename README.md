@@ -29,7 +29,7 @@ The trading data for the two exchanges were cleaned to focus only on bitcoin pri
 
 Focusing in on the three individual days, we were able to determine how many profitable trading opportunities existed (in addition to other statistics) where a trader could buy on the lower priced exchange and sell on the higher priced exchange while still profiting net of trading fees (1%). 
 
-![chart4](images/chart4.PNG)
+![chart_4](images/chart_4.PNG)
 
 The analysis shows that as time progressed, not only did profits per trade decline, but opportunities for profit declined as well.
 
